@@ -1,5 +1,5 @@
 {
- "version": "1.2",
- "url": "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.2/CoolMsgScheduler.zip",
- "notes": "전체 UI를 PyQt6로 전환 (둥근 카드, 프리텐다드 폰트), 업데이트 알림 추가"
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.2/CoolMsgScheduler.zip",
+    "version":  "1.2",
+    "notes":  "캡션 버튼 표준 아이콘으로 교체, 닫기 버튼 우측 이동"
 }
