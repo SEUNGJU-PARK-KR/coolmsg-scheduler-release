@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.2/CoolMsgScheduler.zip",
-    "version":  "1.2",
-    "notes":  "캡션 버튼 표준 아이콘으로 교체, 닫기 버튼 우측 이동"
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.2.1/CoolMsgScheduler.zip",
+    "version":  "1.2.1",
+    "notes":  "업데이트 진행창(용량/속도/예상시간), 중단 복구, 캡션 버튼 수정"
 }
