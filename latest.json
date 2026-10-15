@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.3.0/CoolMsgScheduler.zip",
-    "version":  "1.3.0",
-    "notes":  "\\Font fix (pt, no shadow), sort ascending, manual refresh, date format + weekday colors, bring/date restore, done-important sync, empty state, logo clip fix\""
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.0/CoolMsgScheduler.zip",
+    "version":  "1.4.0",
+    "notes":  "\\Tint fix, pin toggle menu, back-to-main close, edge resize cursor\""
 }
