@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.1/CoolMsgScheduler.zip",
-    "version":  "1.4.1",
-    "notes":  "기능 제안 / 오류 제보 버튼 (로그인 없이 GitHub 이슈 등록)"
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.2/CoolMsgScheduler.zip",
+    "version":  "1.4.2",
+    "notes":  "달력 보기 추가 — 월간 달력에서 일정 디데이 확인, 날짜별 전체 목록 팝업\n툴바를 아이콘 버튼으로 정리\n상세 창에서 제목 바로 수정\n본문 줄 간격 확대, 이모티콘 이미지 작게\n기능/오류 제보 창 디자인 개선\n보내는 중 창 중복 표시 버그 수정"
 }
