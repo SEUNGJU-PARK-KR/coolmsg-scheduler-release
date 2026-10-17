@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.0/CoolMsgScheduler.zip",
-    "version":  "1.4.0",
-    "notes":  "\\Tint fix, pin toggle menu, back-to-main close, edge resize cursor\""
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.1/CoolMsgScheduler.zip",
+    "version":  "1.4.1",
+    "notes":  "기능 제안 / 오류 제보 버튼 (로그인 없이 GitHub 이슈 등록)"
 }
