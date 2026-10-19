@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.2/CoolMsgScheduler.zip",
-    "version":  "1.4.2",
-    "notes":  "달력 보기 추가 — 월간 달력에서 일정 디데이 확인, 날짜별 전체 목록 팝업\n툴바를 아이콘 버튼으로 정리\n상세 창에서 제목 바로 수정\n본문 줄 간격 확대, 이모티콘 이미지 작게\n기능/오류 제보 창 디자인 개선\n보내는 중 창 중복 표시 버그 수정"
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.3/CoolMsgScheduler.zip",
+    "version":  "1.4.3",
+    "notes":  "v1.4.3\n- 달력: 월~금 5열, 주말 일정은 그 주 금요일에 (토)/(일)로 합쳐 표시\n- 지난 날짜는 칸 배경을 흐리게 (메시지 색은 그대로)\n- \u0027오늘\u0027 버튼: 다른 달을 볼 때만 파랗게 활성\n- 칸이 부족하면 중요/완료 일정 우선 표시 + \u0027+N 더 보기\u0027\n- 목록: 다가오는 일정 -\u003e 오늘 -\u003e 지난 일정 순 배치\n- 목록 우클릭: 완료/중요 토글 추가\n- 잔상/스타일 안정화"
 }
