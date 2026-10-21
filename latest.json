@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.8/CoolMsgScheduler.zip",
-    "version":  "1.4.8",
-    "notes":  "첨부파일 목록에 접기/펼치기(세모) 버튼을 넣었습니다. 펼칠 때 본문 높이가 줄지 않도록 창이 함께 커집니다. 첨부 3개 이상은 접힌 채로 열립니다."
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.9/CoolMsgScheduler.zip",
+    "version":  "1.4.9",
+    "notes":  "일정 날짜 콤보박스를 앱 스타일에 맞게 다듬었습니다. 첨부는 항상 접힌 채로 열리고, 펼쳐도 창 높이가 누적해서 커지지 않습니다. 새 메시지의 첨부파일을 열지 않아도 자동으로 저장합니다(최근 3일, 파일당 300MB 이하)."
 }
