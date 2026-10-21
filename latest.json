@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.9/CoolMsgScheduler.zip",
-    "version":  "1.4.9",
-    "notes":  "일정 날짜 콤보박스를 앱 스타일에 맞게 다듬었습니다. 첨부는 항상 접힌 채로 열리고, 펼쳐도 창 높이가 누적해서 커지지 않습니다. 새 메시지의 첨부파일을 열지 않아도 자동으로 저장합니다(최근 3일, 파일당 300MB 이하)."
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.10/CoolMsgScheduler.zip",
+    "version":  "1.4.10",
+    "notes":  "5분마다 자동으로 첨부를 저장하던 기능을 껐습니다. 대신 목록에서 우클릭 → \u0027첨부파일 받기\u0027로 메시지를 열지 않고 필요한 첨부만 받을 수 있습니다."
 }
