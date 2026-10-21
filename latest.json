@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.3/CoolMsgScheduler.zip",
-    "version":  "1.4.3",
-    "notes":  "v1.4.3\n- 달력: 월~금 5열, 주말 일정은 그 주 금요일에 (토)/(일)로 합쳐 표시\n- 지난 날짜는 칸 배경을 흐리게 (메시지 색은 그대로)\n- \u0027오늘\u0027 버튼: 다른 달을 볼 때만 파랗게 활성\n- 칸이 부족하면 중요/완료 일정 우선 표시 + \u0027+N 더 보기\u0027\n- 목록: 다가오는 일정 -\u003e 오늘 -\u003e 지난 일정 순 배치\n- 목록 우클릭: 완료/중요 토글 추가\n- 잔상/스타일 안정화"
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.4/CoolMsgScheduler.zip",
+    "version":  "1.4.4",
+    "notes":  "첨부파일 \u0027받기\u0027 직접 다운로드 지원 (메신저 실행 없이) · Received Files 자동 인식 · 세부 창 폴더 열기 수정"
 }
