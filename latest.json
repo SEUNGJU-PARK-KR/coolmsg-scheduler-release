@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.6/CoolMsgScheduler.zip",
-    "version":  "1.4.6",
-    "notes":  "첨부파일 다운로드 오류를 고쳤습니다. 여러 개 첨부도 각각 받을 수 있고, 받기 버튼을 작게 다듬었으며, 같은 파일이 있으면 덮어쓸지 물어봅니다."
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.7/CoolMsgScheduler.zip",
+    "version":  "1.4.7",
+    "notes":  "첨부파일을 CoolMessenger 환경설정에 지정한 다운로드 폴더로 저장하도록 바꿨습니다."
 }
