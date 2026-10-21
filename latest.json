@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.7/CoolMsgScheduler.zip",
-    "version":  "1.4.7",
-    "notes":  "첨부파일을 CoolMessenger 환경설정에 지정한 다운로드 폴더로 저장하도록 바꿨습니다."
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.8/CoolMsgScheduler.zip",
+    "version":  "1.4.8",
+    "notes":  "첨부파일 목록에 접기/펼치기(세모) 버튼을 넣었습니다. 펼칠 때 본문 높이가 줄지 않도록 창이 함께 커집니다. 첨부 3개 이상은 접힌 채로 열립니다."
 }
