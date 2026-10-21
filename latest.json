@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.5/CoolMsgScheduler.zip",
-    "version":  "1.4.5",
-    "notes":  "받기 버튼을 디자인해 넣었습니다. 상세 창 전체 스타일이 일관되게 적용됩니다. 첨부 받기 실패 시 안내 문구를 개선했습니다."
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.6/CoolMsgScheduler.zip",
+    "version":  "1.4.6",
+    "notes":  "첨부파일 다운로드 오류를 고쳤습니다. 여러 개 첨부도 각각 받을 수 있고, 받기 버튼을 작게 다듬었으며, 같은 파일이 있으면 덮어쓸지 물어봅니다."
 }
