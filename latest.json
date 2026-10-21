@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.4/CoolMsgScheduler.zip",
-    "version":  "1.4.4",
-    "notes":  "첨부파일 \u0027받기\u0027 직접 다운로드 지원 (메신저 실행 없이) · Received Files 자동 인식 · 세부 창 폴더 열기 수정"
+  "version": "1.4.4",
+  "url": "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.4/CoolMsgScheduler.zip",
+  "notes": "첨부파일 '받기' 직접 다운로드 지원 (메신저 실행 없이) · Received Files 자동 인식 · 세부 창 폴더 열기 수정"
 }
