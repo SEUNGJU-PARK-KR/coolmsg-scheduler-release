@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.11/CoolMsgScheduler.zip",
-    "version":  "1.4.11",
-    "notes":  "목록 우클릭 → \u0027첨부파일 받기\u0027 메뉴에서 파일을 하나씩 골라 받을 수 있습니다. \u0027모두 받기\u0027도 그대로 있습니다."
+    "url":  "https://github.com/SEUNGJU-PARK-KR/coolmsg-scheduler-release/releases/download/v1.4.12/CoolMsgScheduler.zip",
+    "version":  "1.4.12",
+    "notes":  "상세 창 첨부 줄에서 \u0027폴더\u0027 링크를 없앴습니다. 파일별 받기/다시 받기는 그대로입니다."
 }
